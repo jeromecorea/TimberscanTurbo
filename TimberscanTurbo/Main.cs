@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TimberscanTurbo
 {
-    class Main
+    class TimberIceEngine
     {
         static void Main(string[] args)
         {
