@@ -124,3 +124,7 @@ MvcUI/AcquiredDocumentImageFolder/*
 MvcUI/Views/DataEntry/AtalaCache/*
 MvcUI/AcquiredDocumentImageFolderTemp/*
 MvcUI/cache/*
+TimberscanTurbo/Commands.Test/obj/*
+TimberscanTurbo/Commands/obj/*
+TimberscanTurbo/obj/*
+TimberscanTurbo/TimberscanTurbo.v12.suo
