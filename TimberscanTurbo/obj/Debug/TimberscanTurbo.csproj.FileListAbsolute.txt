@@ -1,1 +1,3 @@
 d:\wrk\corea\src\TimberscanTurbo\TimberscanTurbo\bin\Debug\TimberscanTurbo.exe.config
+d:\wrk\corea\src\TimberscanTurbo\TimberscanTurbo\obj\Debug\TimberscanTurbo.exe
+d:\wrk\corea\src\TimberscanTurbo\TimberscanTurbo\obj\Debug\TimberscanTurbo.pdb
