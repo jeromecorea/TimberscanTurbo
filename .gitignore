@@ -117,13 +117,6 @@ Docs/
 *.stackdump
 *.bak
 *.vsmdi
-Core.Sebring.vsmdi
-Local.testsettings
-Local.testsettings
-MvcUI/AcquiredDocumentImageFolder/*
-MvcUI/Views/DataEntry/AtalaCache/*
-MvcUI/AcquiredDocumentImageFolderTemp/*
-MvcUI/cache/*
 TimberscanTurbo/Commands.Test/obj/*
 TimberscanTurbo/Commands.Test/obj/Debug/*
 TimberscanTurbo/Commands.Test/bin/*
