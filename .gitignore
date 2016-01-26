@@ -234,9 +234,9 @@
 	
 	# FAKE - F# Make
 	.fake/
-TimberscanTurbo/bin/*
-TimberscanTurbo/Commands.Test/bin/*
-TimberscanTurbo/Commands.Test/obj/*
-TimberscanTurbo/Commands/bin/*
-TimberscanTurbo/Commands/obj/*
-TimberscanTurbo/obj/*
+TimberscanTurbo/bin/
+TimberscanTurbo/obj/
+TimberscanTurbo/Commands.Test/bin/
+TimberscanTurbo/Commands.Test/obj/
+TimberscanTurbo/Commands/bin/
+TimberscanTurbo/Commands/obj/
